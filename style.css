@@ -1,0 +1,25 @@
+.gradient-background {
+    background: linear-gradient(300deg, #1589af, #c4384d, #f6b6ae);
+    background-size: 180% 180%;
+    animation: gradient-animation 18s ease infinite;
+  }
+
+  .pt-sans-narrow-regular {
+    font-family: "PT Sans Narrow", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  .pt-sans-narrow-bold {
+    font-family: "PT Sans Narrow", serif;
+    font-weight: 700;
+    font-style: normal;
+  }
+
+  #headertop {
+    background-color: #f6b6ae;
+  }
+
+  #Fratzeskapic {
+    border-radius: 30%;
+  }
